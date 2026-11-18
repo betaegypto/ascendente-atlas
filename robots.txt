@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://betaegypto.github.io/ascendente-atlas/sitemap.xml
